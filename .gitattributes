@@ -1,0 +1,14 @@
+# Ignore native platform code
+android/ linguist-vendored
+ios/ linguist-vendored
+build/ linguist-vendored
+
+# Ignore specific file types
+*.cpp linguist-vendored
+*.c linguist-vendored
+*.cmake linguist-vendored
+*.html linguist-vendored
+*.swift linguist-vendored
+
+# Prioritize Dart files
+*.dart linguist-detectable

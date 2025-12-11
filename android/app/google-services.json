@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24117341695",
+    "project_id": "hia-application-2a0db",
+    "storage_bucket": "hia-application-2a0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24117341695:android:f6751bf8fb25c6862f4bca",
+        "android_client_info": {
+          "package_name": "com.example.hia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4n_N3KVQ4HguQn6mFzylSab3KTG9982M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24117341695:android:0c2521a46225fe1f2f4bca",
+        "android_client_info": {
+          "package_name": "tn.hiatunisie.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4n_N3KVQ4HguQn6mFzylSab3KTG9982M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

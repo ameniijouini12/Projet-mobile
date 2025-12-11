@@ -1,0 +1,2 @@
+D:/Hia_FRONTEND/android/app/.cxx/Debug/4f6g183f/x86_64/CMakeFiles/edit_cache.dir
+D:/Hia_FRONTEND/android/app/.cxx/Debug/4f6g183f/x86_64/CMakeFiles/rebuild_cache.dir
